@@ -13,11 +13,11 @@
 - timeout value = sec 5, usec 5000
 - Client based on TCP multiprocess with I/O routine split
 
-##server.c
+## server.c
 코드 컴파일
 > "[실행파일 이름] [ip 주소] [port 번호]" 입력
 
-##client.c
+## client.c
 코드 컴파일
 > 클라이언트들은 각각 "[실행파일 이름] [IP 주소] [port 번호] [이름]" 입력하여 서버와 연결
 > 전송하고자 하는 메시지 입력
