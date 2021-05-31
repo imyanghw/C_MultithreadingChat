@@ -7,10 +7,10 @@
 - C Language
 
 ## 구현내용
-- Multiplexing chat server를 이용하여 여러 client가 접속 후 채팅이 가능함
-- 전송된 메시지는 모든 클라이언트가 볼 수 있음
+- 모든 클라이언트는 전체채팅 메시지를 볼 수 있음
+- 여러 client가 접속하여 채팅이 가능함
 - 최대 Message buffer: 100
-- timeout value = sec 5, usec 5000
+- 채팅방 닉네임 최대길이 : 13
 - Client based on TCP multiprocess with I/O routine split
 
 ## server.c
