@@ -24,6 +24,7 @@
 > "@[수신자 이름] [메시지 내용]"을 입력해서 전송하고자 하는 메시지 입력<br>
 
 ## Screenshots
+<img src="https://user-images.githubusercontent.com/76413580/120250918-c6cd9700-c2ba-11eb-9b00-da9cf634fcd7.PNG"></image>
 
 ## 프로젝트 고찰
 프로그램 장/단점
